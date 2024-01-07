@@ -5,7 +5,11 @@ This Mindmap has been meticulously created to ensure that information is shared 
 
 📖 Resources
 
+🌐 Mnemonics and Memory
+
 👤 Issues
+
+
 
 
 
@@ -58,6 +62,8 @@ The Mindmap can be more effective with images and short notes, I have laready ad
 [CISSP_Domain_08](https://github.com/sajinshivdas/CISSP_Interactive_Mindmap/tree/main/CISSP_Domain_08)
 
 
+
+🌐 Mnemonics and Memory
 
 
 
